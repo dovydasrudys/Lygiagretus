@@ -1,0 +1,47 @@
+Marco Asensio;midfielder;22;1.82;Real Madrid
+Luke Shaw;defender;23;1.85;Manchester United
+Paulo Dybala;striker;24;1.77;Juventus
+Emre Can;midfielder;24;1.7;Juventus
+Paul Pogba;midfielder;25;1.91;Manchester United
+Romelu Lukaku;striker;25;1.9;Manchester United
+Dani Carvajal;defender;26;1.73;Real Madrid
+Lucas Vazquez;midfielder;27;1.73;Real Madrid
+Douglas Costa;midfielder;27;1.7;Juventus
+James Rodriguez;midfielder;27;1.8;Bayern Munich
+Alex Sandro;defender;27;1.8;Juventus
+David deGea;goalkeeper;27;1.92;Manchester United
+Marcus Rojo;defender;28;1.87;Manchester United
+Thomas Muller;striker;28;1.86;Bayern Munich
+Gareth Bale;striker;29;1.85;Real Madrid
+Ivan Rakitic;midfielder;30;1.84;Barcelona
+Karim Benzema;striker;30;1.85;Real Madrid
+Robert Lewandowski;striker;30;1.85;Bayern Munich
+Sergio Busquets;midfielder;30;1.89;Barcelona
+Leonardo Bonucci;defender;31;1.91;Juventus
+Arturo Vidal;midfielder;31;1.8;Barcelona
+Gerard Pique;defender;31;1.94;Barcelona
+Lionel Messi;striker;31;1.7;Barcelona
+Luis Suarez;striker;31;1.82;Barcelona
+Luka Modric;midfielder;32;1.72;Real Madrid
+Manuel Neuer;goalkeeper;32;1.93;Bayern Munich
+Cristiano Ronaldo;striker;33;1.87;Juventus
+Arjen Robben;midfielder;34;1.8;Bayern Munich
+Lee Grant;goalkeeper;35;1.93;Manchester United
+Franck Ribery;midfielder;35;1.7;Bayern Munich
+22;10
+23;10
+24;20
+
+25;20
+26;20
+
+27;50
+28;20
+29;10
+30;40
+31;50
+
+32;20
+33;10
+34;10
+35;20
